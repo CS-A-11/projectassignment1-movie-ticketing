@@ -1,4 +1,4 @@
- http://mighty-retreat-34475.herokuapp.com/
+http://mighty-retreat-34475.herokuapp.com/
 
  group members:
 1.Abiha Aftab 
