@@ -1,4 +1,4 @@
-http://mighty-retreat-34475.herokuapp.com/
+https://pure-gorge-12168.herokuapp.com/
 
  group members:
 1.Abiha Aftab 
@@ -7,5 +7,4 @@ http://mighty-retreat-34475.herokuapp.com/
 4.Hamda Naeem
 5. Sarah Tahir
 
-link to route
-http://mighty-retreat-34475.herokuapp.com/thelist
+
