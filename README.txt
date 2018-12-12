@@ -33,13 +33,13 @@ COLLECTIONS:
 
 ### CONTRIBUTIONS:
 1. Abiha Aftab 
-crud,ajax
+UI, crud,ajax
 2. Muntaha Zaigham
-crud,ajax
+UI, crud,ajax
 3. Fatima Naseer
-session management ,ajax
+UI, session management ,ajax
 4. Hamda Naeem
-
+UI, crud, ajax
 5. Sarah Tahir
-
+UI, crud, ajax
 
