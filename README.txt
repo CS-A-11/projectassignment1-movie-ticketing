@@ -1,4 +1,4 @@
- ## PROJECT TITLE: A Movie Ticketing Management System
+ ## PROJECT TITLE: A Movie Ticketing Management System ##
 
 ### GROUP MEMBERS:
 1. Sarah  Tahir Bokhari		15L-4093
