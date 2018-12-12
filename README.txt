@@ -1,4 +1,4 @@
-## PROJECT TITLE: A Movie Ticketing Management System
+ ## PROJECT TITLE: A Movie Ticketing Management System
 
 ### GROUP MEMBERS:
 1. Sarah  Tahir Bokhari		15L-4093
@@ -33,13 +33,14 @@ COLLECTIONS:
 
 ### CONTRIBUTIONS:
 1. Abiha Aftab 
-UI, crud,ajax
+Ticketing: UI, crud, ajax
 2. Muntaha Zaigham
-UI, crud,ajax
+Homepage, Pop: UI, crud, ajax
 3. Fatima Naseer
-UI, session management ,ajax
+Selection: UI, session management, ajax
 4. Hamda Naeem
-UI, crud, ajax
+Payment: UI
+Watch History: crud, ajax
 5. Sarah Tahir
-UI, crud, ajax
+Watch History: UI, crud, ajax
 
